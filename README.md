@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/openboa-ai/yogurt/main/design/assets/projects/meatball.svg" alt="Meatball project mark" width="96">
+
 # meatball
 
 keep the ball rolling
